@@ -11,7 +11,7 @@ To install pspp via homebrew  you need to add this tap to your
 homebrew installation:
 
 ```
-brew tap fredowski/pspp
+brew tap emysliwietz/pspp
 brew install pspp
 ```
 
@@ -23,5 +23,5 @@ brew install --head --verbose pspp
 
 Contact: pspp-users@gnu.org
 
-Friedrich Beckmann
+Original author of brew port: Friedrich Beckmann
 
